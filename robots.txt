@@ -1,0 +1,9 @@
+User-agent:Googlebot
+Disallow: /
+Allow: /index.html
+
+User-agent:discobot
+Disallow: /
+
+User-agent:bingbot
+Allow: /
